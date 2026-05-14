@@ -1,3 +1,5 @@
 new test
 
-а еще вот вам ссылка на картинку с котиком https://i.pinimg.com/474x/5b/bb/b4/5bbbb40141f702b9e1935e1fda79596a.jpg?nii=t
+а еще вот вам ссылка на картинку с котиком: https://i.pinimg.com/474x/5b/bb/b4/5bbbb40141f702b9e1935e1fda79596a.jpg?nii=t
+
+ну раз надо, то вот еще картинка: https://i.pinimg.com/originals/ad/ef/15/adef153f6c076c0e57c2dceaba25f598.jpg
